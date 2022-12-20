@@ -1,0 +1,10 @@
+{
+    "name": "Very Good™ Language Pack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/jmal116/most-excellent-language-pack",
+    "description": "Makes the game more fun, trust me",
+    "dependencies": [
+		"bbepis-BepInExPack-5.4.2103",
+		"tristanmcpherson-R2API-5.0.1"
+    ]
+}
