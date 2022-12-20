@@ -1,0 +1,32 @@
+{
+  "en": {
+    "LOCKBOXVOID_NAME": "Crusty Cache",
+    "LOCKBOXVOID_CONTEXT": "Open Crusty Cache",
+    "VOIDLOCKBOX_NAME": "Crusty Cache",
+    "VOIDLOCKBOX_CONTEXT": "Open Crusty Cache",
+	"LOCKBOX_NAME": "Rusty Box",
+	"LOCKBOX_CONTEXT": "Open Rusty Box",
+
+    "VOID_CHEST_NAME" : "Canned Ohio",
+    "VOID_CHEST_CONTEXT" : "Set <style=cIsVoid>Ohio</style> free",
+
+    "VOID_TRIPLE_NAME" : "Quantum Ohio",
+	"VOID_TRIPLE_CONTEXT" : "Release Quantum Ohio",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "Observe Ohio",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "Quantum Ohio",
+	"OPTION_PICKUP_HEADER" : "Collapsing Potential Vectors...",
+
+    "PORTAL_VOID_NAME" : "Ohio Turnpike",
+	"PORTAL_VOID_CONTEXT": "Enter Ohio Turnpike",
+
+    "DEEPVOIDBATTERY_NAME" : "OSU Signal",
+	"DEEPVOIDBATTERY_CONTEXT" : "Activate OSU Signal",
+
+	"PORTAL_DEEPVOID_NAME" : "OSU Portal",
+	"PORTAL_DEEPVOID_CONTEXT": "Enter OSU",
+
+	"VOIDCAMPCENTER_NAME" : "Ohio",
+	"VOIDCAMPCENTER_CONTEXT": "Destroy",
+  }
+}

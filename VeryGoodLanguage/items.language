@@ -1,0 +1,14 @@
+{
+  "en": {
+    "ITEM_MUSHROOM_NAME": "Bungus",
+
+    "ITEM_MUSHROOMVOID_NAME": "Wungus",
+	"ITEM_MUSHROOMVOID_PICKUP": "It should be set to <style=cIsVoid>W</style> for <style=cIsVoid>Wumbo</style>.",
+
+    "ITEM_TREASURECACHE_NAME": "Enrusted Key",
+	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Box that contains a powerful item.",
+
+    "ITEM_TREASURECACHEVOID_NAME": "Crusty Key",
+	"ITEM_TREASURECACHEVOID_PICKUP": "Gain access to a <style=cIsVoid>Crusty Cache</style> that contains a evil item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",
+  }
+}
