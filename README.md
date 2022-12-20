@@ -5,7 +5,7 @@ It makes the game more fun, trust me
 # Installation
 
 - Download/clone this repo. Keep everything in one folder.
-- Install the (mod manager)[https://risk-of-thunder.github.io/R2Wiki/Playing/Getting-Started/] and setup a profile
+- Install the [mod manager](https://risk-of-thunder.github.io/R2Wiki/Playing/Getting-Started/) and setup a profile
 - Install the following mods
     - R2API
     - BepInExPack
@@ -18,4 +18,4 @@ It makes the game more fun, trust me
 # Contributing
 
 - Pretty much just modify the `.language` file
-- Instructions for finding token names are (here)[https://github.com/risk-of-thunder/R2Wiki/wiki/Mod-Creation_Assets_Localization]
+- Instructions for finding token names are [here](https://github.com/risk-of-thunder/R2Wiki/wiki/Mod-Creation_Assets_Localization)
