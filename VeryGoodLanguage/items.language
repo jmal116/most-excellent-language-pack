@@ -1,14 +1,71 @@
 {
   "en": {
     "ITEM_MUSHROOM_NAME": "Bungus",
-
+	"ITEM_MUSHROOM_PICKUP": "Unless you're Engineer you probably don't care.",
     "ITEM_MUSHROOMVOID_NAME": "Wungus",
 	"ITEM_MUSHROOMVOID_PICKUP": "It should be set to <style=cIsVoid>W</style> for <style=cIsVoid>Wumbo</style>.",
 
     "ITEM_TREASURECACHE_NAME": "Enrusted Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Box that contains a powerful item.",
-
     "ITEM_TREASURECACHEVOID_NAME": "Crusty Key",
-	"ITEM_TREASURECACHEVOID_PICKUP": "Gain access to a <style=cIsVoid>Crusty Cache</style> that contains a evil item. <style=cIsVoid>Corrupts all Rusted Keys</style>.",
+	"ITEM_TREASURECACHEVOID_PICKUP": "Gain access to a <style=cIsVoid>Crusty Cache</style> that contains a evil item. <style=cIsVoid>Corrupts all Enrusted Keys</style>.",
+
+    "ITEM_SYRINGE_NAME": "Performance Enhancing Drugs",
+
+    "ITEM_HOOF_NAME": "Paul's Goat Hoof",
+	"ITEM_HOOF_PICKUP": "Increase movement speed. Why does a goat hoof make you run faster? Don't ask.",
+
+    "ITEM_FEATHER_NAME": "Wings",
+	"ITEM_FEATHER_PICKUP": "Get one step closer to flying.",
+
+    "ITEM_SEED_NAME": "Leech Seed",
+	"ITEM_SEED_PICKUP": "It's super effective!",
+
+    "ITEM_BEHEMOTH_NAME": "Porta-Hooty Reporting for Duty!",
+	"ITEM_BEHEMOTH_PICKUP": "Special delivery! <style=cIsDamage>PAIN</style>",
+
+    "ITEM_GHOSTONKILL_NAME": "Happiest Mask",
+	"ITEM_GHOSTONKILL_PICKUP": "Smile to hide the pain",
+
+    "ITEM_CROWBAR_NAME": "One-Punch Man",
+	"ITEM_CROWBAR_PICKUP": "Attacking anything a second time is a sin.",
+
+    "ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
+	"ITEM_BLEEDONHIT_PICKUP": "While you were out partying, I studied the blade",
+
+	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
+	"ITEM_CHAINLIGHTNING_PICKUP": "Played by the famous Tiny Tim.",
+    "ITEM_CHAINLIGHTNINGVOID_NAME": "Evil Ukelele",
+	"ITEM_CHAINLIGHTNINGVOID_PICKUP": "Stolen from the Rock and Roll Hall of Fame. <style=cIsVoid>Corrupts all Ukuleles</style>.",
+
+    "ITEM_SPRINTOUTOFCOMBAT_NAME": "BDSM",
+	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "It wasn't red when we bought it.",
+
+    "ITEM_HEALONCRIT_NAME": "Marx's Scythe",
+	"ITEM_HEALONCRIT_PICKUP": "Seize the means of production",
+
+    "ITEM_EXPLODEONDEATHVOID_NAME": "Cuyahoga Flame",
+    "ITEM_EXPLODEONDEATHVOID_PICKUP": "Come see our river that <style=cIsVoid>catches on fire</style>!",
+    
+    "ITEM_CRITGLASSESVOID_NAME": "Deletos",
+	"ITEM_CRITGLASSESVOID_PICKUP": "Gain a 0.5% chance to feed them the deletos. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
+
+    "ITEM_JUMPBOOST_NAME": "Controversy",
+	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
+
+	"ITEM_NOVAONHEAL_NAME": "N'kuhana's Hot Take",
+	"ITEM_NOVAONHEAL_PICKUP": "You share an opinion so bad that your enemies physically recoil. Deal 1d6 psychic damage.",
+
+    "ITEM_MEDKIT_NAME": "First-Aid Kit",
+	"ITEM_MEDKIT_PICKUP": "A bandage for the boo-boo.",
+
+    "EQUIPMENT_LIGHTNING_NAME": "Smite Ray",
+
+    "EQUIPMENT_BOSSHUNTER_NAME" : "Ahoy Machine (Primed)",
+	"EQUIPMENT_BOSSHUNTER_PICKUP" : "Execute a large monster and claim its <style=cIsDamage>trophy</style>. Evolves into its final form on use.",
+    "EQUIPMENT_BOSSHUNTERCONSUMED_NAME" : "Ahoy Machine",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP" : "The most important item in the game.",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_DESC" : "The most important item in the game.",
+	"EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the like",
   }
 }

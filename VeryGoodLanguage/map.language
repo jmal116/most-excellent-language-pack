@@ -1,10 +1,11 @@
 {
   "en": {
-    "MAP_ARENA_TITLE" : "Hidden Realm: Ohio Plains",
-    "MAP_VOIDSTAGE_TITLE" : "Hidden Realm: Ohio Locus",
-
+    "MAP_ARENA_TITLE" : "Hidden Realm: Cleveland",
+    "MAP_VOIDSTAGE_TITLE" : "Hidden Realm: Cincinnati",
+    "MAP_VOIDRAID_TITLE" : "Hidden Realm: THE Ohio State University",
     
-    "UNLOCKABLE_LOG_STAGES_ARENA" : "Environment Log: Ohio Plains,
-    "UNLOCKABLE_LOG_STAGES_VOIDSTAGE" : "Environment Log: Ohio Locus",
+    "UNLOCKABLE_LOG_STAGES_ARENA" : "Environment Log: Cleveland,
+    "UNLOCKABLE_LOG_STAGES_VOIDSTAGE" : "Environment Log: Cincinnati",
+    "UNLOCKABLE_LOG_STAGES_VOIDRAID" : "Environment Log: THE Ohio State University",
   }
 }
