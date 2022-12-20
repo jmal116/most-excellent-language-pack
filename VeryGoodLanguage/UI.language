@@ -16,5 +16,7 @@
     "OBJECTIVE_VOIDCAMP": "Destroy <style=cIsVoid>Ohio</style>.\n{0} Ohioan(s) remaining",
     "OBJECTIVE_VOID_BATTERY" : "Charge the <style=cIsVoid>OSU Signals</style> ({0}%)",
     "OBJECTIVE_VOID_BATTERY_OOB": "Enter the <style=cIsVoid>OSU Signal's radius!</style> ({0}%)",
+
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "As Commando, land the killing blow on a Zappy Worm.",
   }
 }
