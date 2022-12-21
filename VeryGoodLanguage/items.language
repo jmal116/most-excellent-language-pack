@@ -1,9 +1,9 @@
 {
   "en": {
-    "ITEM_MUSHROOM_NAME": "Bungus",
-	"ITEM_MUSHROOM_PICKUP": "Unless you're Engineer you probably don't care.",
+    "ITEM_MUSHROOM_NAME": "Mungus",
+	"ITEM_MUSHROOM_PICKUP": "You've got it set to <style=cIsHealing>M</style> for <style=cIsHealing>mini</style>...",
     "ITEM_MUSHROOMVOID_NAME": "Wungus",
-	"ITEM_MUSHROOMVOID_PICKUP": "It should be set to <style=cIsVoid>W</style> for <style=cIsVoid>Wumbo</style>.",
+	"ITEM_MUSHROOMVOID_PICKUP": "... when it should be set to <style=cIsVoid>W</style> for <style=cIsVoid>Wumbo</style>.",
 
     "ITEM_TREASURECACHE_NAME": "Enrusted Key",
 	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Box that contains a powerful item.",
@@ -11,6 +11,7 @@
 	"ITEM_TREASURECACHEVOID_PICKUP": "Gain access to a <style=cIsVoid>Crusty Cache</style> that contains a evil item. <style=cIsVoid>Corrupts all Enrusted Keys</style>.",
 
     "ITEM_SYRINGE_NAME": "Performance Enhancing Drugs",
+	"ITEM_SYRINGE_PICKUP": "Hold your left click even better than before.",
 
     "ITEM_HOOF_NAME": "Paul's Goat Hoof",
 	"ITEM_HOOF_PICKUP": "Increase movement speed. Why does a goat hoof make you run faster? Don't ask.",
@@ -22,7 +23,7 @@
 	"ITEM_SEED_PICKUP": "It's super effective!",
 
     "ITEM_BEHEMOTH_NAME": "Porta-Hooty Reporting for Duty!",
-	"ITEM_BEHEMOTH_PICKUP": "Special delivery! <style=cIsDamage>PAIN</style>",
+	"ITEM_BEHEMOTH_PICKUP": "Special delivery! <color=#FF7F7F>PAIN</color>",
 
     "ITEM_GHOSTONKILL_NAME": "Happiest Mask",
 	"ITEM_GHOSTONKILL_PICKUP": "Smile to hide the pain",
@@ -30,7 +31,7 @@
     "ITEM_CROWBAR_NAME": "One-Punch Man",
 	"ITEM_CROWBAR_PICKUP": "Attacking anything a second time is a sin.",
 
-    "ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
+    "ITEM_BLEEDONHIT_NAME": "Stabby sword",
 	"ITEM_BLEEDONHIT_PICKUP": "While you were out partying, I studied the blade",
 
 	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
@@ -39,7 +40,7 @@
 	"ITEM_CHAINLIGHTNINGVOID_PICKUP": "Stolen from the Rock and Roll Hall of Fame. <style=cIsVoid>Corrupts all Ukuleles</style>.",
 
     "ITEM_SPRINTOUTOFCOMBAT_NAME": "BDSM",
-	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "It wasn't red when we bought it.",
+	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "<color=#FF7F7F>It wasn't red when we bought it.</color>",
 
     "ITEM_HEALONCRIT_NAME": "Marx's Scythe",
 	"ITEM_HEALONCRIT_PICKUP": "Seize the means of production",
@@ -54,12 +55,186 @@
 	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
 
 	"ITEM_NOVAONHEAL_NAME": "N'kuhana's Hot Take",
-	"ITEM_NOVAONHEAL_PICKUP": "You share an opinion so bad that your enemies physically recoil. Deal 1d6 psychic damage.",
+	"ITEM_NOVAONHEAL_PICKUP": "You share an opinion so bad that your enemies physically recoil. Deal <style=cIsDamage>1d6 psychic damage</style>.",
 
     "ITEM_MEDKIT_NAME": "First-Aid Kit",
 	"ITEM_MEDKIT_PICKUP": "A bandage for the boo-boo.",
 
+    "ITEM_INFUSION_NAME": "Infusion",
+	"ITEM_INFUSION_PICKUP": "This icon is actually closer to getting blood drawn than getting a blood infusion.",
+
+    "ITEM_SHOCKNEARBY_NAME": "Ancient Musical Instrument",
+	"ITEM_SHOCKNEARBY_PICKUP": "Kinda like a ukulele, but not quite as cool.",
+
+    "ITEM_IGNITEONKILL_NAME": "Arson",
+	"ITEM_IGNITEONKILL_PICKUP": "Some people just like to watch the world burn.",
+
+    "ITEM_BOUNCENEARBY_NAME": "Sentient Meat Hook",
+	"ITEM_BOUNCENEARBY_PICKUP": "Swing it around like a lasso!",
+    
+    "ITEM_FIREWORK_NAME": "Lag Inducer",
+	"ITEM_FIREWORK_PICKUP": "Make your CPU <color=#FF7F7F>cry</color>.",
+
+    "ITEM_BANDOLIER_NAME": "Not Razorwire",
+	"ITEM_BANDOLIER_PICKUP": "This item should never be confused with razorwire.",
+
+    "ITEM_THORNS_NAME" : "Not Bandolier",
+	"ITEM_THORNS_PICKUP" : "This item should never be confused with bandolier.",
+
+    "ITEM_STUNCHANCEONHIT_NAME": "Stun Grenade",
+	"ITEM_STUNCHANCEONHIT_PICKUP": "Throw it really hard at the enemy.",
+
+    "ITEM_ALIENHEAD_NAME": "Alien Aristocrat",
+	"ITEM_ALIENHEAD_PICKUP": "Press all your skill buttons a bit faster.",
+
+    "ITEM_TALISMAN_NAME": "Ancient Ritual Sacrifice",
+	"ITEM_TALISMAN_PICKUP": "Press your equipment button a bit faster.",
+
+    "ITEM_KNURL_NAME": "Forgettable",
+	"ITEM_KNURL_PICKUP": "'Oh wait I have one of those?' - you, just now",
+
+    "ITEM_BEETLEGLAND_NAME": "Beetle Boi",
+	"ITEM_BEETLEGLAND_PICKUP": "oh lawd he comin",
+
+    "ITEM_SPRINTBONUS_NAME": "Sprint Juice",
+	"ITEM_SPRINTBONUS_PICKUP": "Run fast, run far.",
+
+    "ITEM_SECONDARYSKILLMAGAZINE_NAME": "Backup Magazine",
+	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "Shoot more stuff more gooder.",
+
+    "ITEM_STICKYBOMB_NAME": "Peanut Butter Bomb",
+	"ITEM_STICKYBOMB_PICKUP": "Don't let it stick to the roof of your mouth.",
+
+    "ITEM_BOSSDAMAGEBONUS_NAME": "Big Bullets",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP": "For big targets.",
+
+    "ITEM_SPRINTARMOR_NAME": "Nonsense shield",
+	"ITEM_SPRINTARMOR_PICKUP": "Seriously, using a shield while sprinting is like the least effective way to do it.",
+
+    "ITEM_ELEMENTALRINGS_NAME" : "Cold and Warm Bracelets",
+	"ITEM_ICERING_NAME": "Cold Bracelet",
+	"ITEM_ICERING_PICKUP": "Useful for those warm days out in the wilderness.",
+    "ITEM_FIRERING_NAME": "Heated Bracelet",
+	"ITEM_FIRERING_PICKUP": "Useful for those cold nights out in the wilderness.",
+
+    "ITEM_SLOWONHIT_NAME": "Time Slow",
+	"ITEM_SLOWONHIT_PICKUP": "A Fair and Balanced ability.",
+
+    "ITEM_EXTRALIFE_NAME": "Jojos Meme",
+	"ITEM_EXTRALIFE_PICKUP": "You were expecting an item...",
+    "EXTRALIFE_REVIVED_EFFECT": "...But it was me, DIO",
+    "ITEM_EXTRALIFECONSUMED_NAME": "Jojos Meme (Overused)",
+	"ITEM_EXTRALIFECONSUMED_PICKUP": "A dead meme.",
+	
+	"ITEM_UTILITYSKILLMAGAZINE_NAME": "Zoomies",
+	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "nyoom nyoom.",
+
+    "ITEM_KILLELITEFRENZY_NAME": "Brain Blast",
+	"ITEM_KILLELITEFRENZY_PICKUP": "Just hit all the buttons at once.",
+
+    "ITEM_INCREASEHEALING_NAME": "Antlers",
+	"ITEM_INCREASEHEALING_PICKUP": "Become a <style=cIsHealing>furry</style>.",
+
+    "ITEM_EXECUTELOWHEALTHELITE_NAME": "Old Guillotine",
+	"ITEM_EXECUTELOWHEALTHELITE_PICKUP": "Let them eat cake.",
+
+    "ITEM_ENERGIZEDONEQUIPMENTUSE_NAME": "War Horn",
+	"ITEM_ENERGIZEDONEQUIPMENTUSE_PICKUP": "Gondor calls for aid!",
+
+    "ITEM_TITANGOLDDURINGTP_NAME": "Bird Seed",
+	"ITEM_TITANGOLDDURINGTP_PICKUP": "Did you know? A halcyon is a type of bird.",
+
+    "ITEM_SPRINTWISP_NAME": "Bomb",
+	"ITEM_SPRINTWISP_PICKUP": "I don't know what to tell you, this sprite just kinda looks like an improvised bomb. There's not really a joke here.",
+    
+    "ITEM_BARRIERONKILL_NAME" : "Bedazzled Turtle",
+	"ITEM_BARRIERONKILL_PICKUP" : "Not just an outdated fashion trend for teenage girls.",
+
+    "ITEM_ARMORREDUCTIONONHIT_NAME" : "Banhammer",
+	"ITEM_ARMORREDUCTIONONHIT_PICKUP" : "And so it was decided.",
+
+    "ITEM_TPHEALINGNOVA_NAME" : "Magic Flower",
+	"ITEM_TPHEALINGNOVA_PICKUP" : "It's magic.",
+
+    "ITEM_NEARBYDAMAGEBONUS_NAME": "Melee Crystal",
+	"ITEM_NEARBYDAMAGEBONUS_PICKUP": "Do you like punching stuff? Well you're about to.",
+
+    "ITEM_FLATHEALTH_NAME" : "Bad",
+	"ITEM_FLATHEALTH_PICKUP" : "This item is bad.",
+
+    "ITEM_PEARL_NAME" : "Irradiant Pearl",
+	"ITEM_PEARL_PICKUP" : "lol jk it's just a normal pearl",
+
+    "ITEM_SHINYPEARL_NAME" : "Pearl",
+	"ITEM_SHINYPEARL_PICKUP" : "Stolen from an oyster and delivered straight to you!",
+
+    "ITEM_BONUSGOLDPACKONKILL_NAME" : "Fancy Book",
+	"ITEM_BONUSGOLDPACKONKILL_PICKUP" : "How'd you get the money for a book so fancy? Pickpocketing the elderly?.",
+
+    "ITEM_NOVAONLOWHEALTH_NAME" : "Electric Tentacle",
+	"ITEM_NOVAONLOWHEALTH_PICKUP" : "If you're brave enough...",
+
+    "ITEM_SQUIDTURRET_NAME" : "Squid Game",
+	"ITEM_SQUIDTURRET_PICKUP" : "Something is going to die, probably an enemy.",
+
+    "ITEM_DEATHMARK_NAME" : "The Skull of Your Enemies",
+	"ITEM_DEATHMARK_PICKUP" : "Somehow in all the chaos you managed to find the time to go treasure hunting.",
+
+    "ITEM_INTERSTELLARDESKPLANT_NAME" : "Succulent",
+	"ITEM_INTERSTELLARDESKPLANT_PICKUP" : "It is literally impossible to kill one of these things, I have tried.",
+
+    "ITEM_FIREBALLSONHIT_NAME" : "Spicy Worm Parts",
+	"ITEM_FIREBALLSONHIT_PICKUP" : "<style=cIsDamage>Yummy</style>!",
+
+    "ITEM_LIGHTNINGSTRIKEONHIT_NAME" : "Zappy Worm Parts",
+	"ITEM_LIGHTNINGSTRIKEONHIT_PICKUP" : "<style=cIsDamage>Ouchie</style>!",
+
+    "ITEM_BLEEDONHITANDEXPLODE_NAME" : "Shatterspleen",
+	"ITEM_BLEEDONHITANDEXPLODE_PICKUP" : "The concept art for this is literally a spleen, but instead the actual sprite looks more like a boxing glove.",
+
+    "ITEM_SIPHONONLOWHEALTH_NAME" : "Vase of Ashes",
+	"ITEM_SIPHONONLOWHEALTH_PICKUP" : "<color=#FF7F7F>Oh no</color>.",
+
+    "ITEM_CAPTAINDEFENSEMATRIX_NAME" : "Only Scrubs Play Captain",
+	"ITEM_CAPTAINDEFENSEMATRIX_PICKUP" : "Chances are none of them will ever see this LMAO",
+
+    "ITEM_SCRAPWHITE_NAME" : "White Trash",
+	"ITEM_SCRAPWHITE_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+
+    "ITEM_SCRAPGREEN_NAME" : "Green Garbage",
+	"ITEM_SCRAPGREEN_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+
+    "ITEM_SCRAPRED_NAME" : "Red Rubbish",
+	"ITEM_SCRAPRED_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
+
+    "ITEM_SCRAPYELLOW_NAME" : "Yellow",
+	"ITEM_SCRAPYELLOW_PICKUP" : "<style=cIsDamage>It's yellow.<style>",
+
+    "ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Brown Go-Fast Juice",
+	"ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "Slightly increase attack speed and movement speed.",
+
+    "ITEM_PRIMARYSKILLSHURIKEN_NAME" : "Ninja Star",
+	"ITEM_PRIMARYSKILLSHURIKEN_PICKUP" : "Requires true skill to use.",
+
+    "ITEM_CRITDAMAGE_NAME" : "Laser Scope",
+	"ITEM_CRITDAMAGE_PICKUP" : "Your crits do more crit per crit.",
+
+    "ITEM_DRONEWEAPONS_NAME" : "AFK",
+	"ITEM_DRONEWEAPONS_PICKUP" : "Your drones become good so you don't have to be.",
+
+    //stopped here
+
+    "ITEM_SHIELDONLY_NAME": "Little Bug Pal",
+	"ITEM_SHIELDONLY_PICKUP": "Convert all your health into shield. Increase maximum health.",
+
+    "ITEM_AUTOCASTEQUIPMENT_NAME": "Helix Fossil",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "Praise Helix!",
+
+    "ITEM_LUNARTRINKET_NAME" : "The Beads",
+	"ITEM_LUNARTRINKET_PICKUP" : "Pretty pretty shiny shiny",
+
     "EQUIPMENT_LIGHTNING_NAME": "Smite Ray",
+    "EQUIPMENT_LIGHTNING_PICKUP": "Lightning bolt! Lightning bolt!",
 
     "EQUIPMENT_BOSSHUNTER_NAME" : "Ahoy Machine (Primed)",
 	"EQUIPMENT_BOSSHUNTER_PICKUP" : "Execute a large monster and claim its <style=cIsDamage>trophy</style>. Evolves into its final form on use.",
