@@ -1,0 +1,33 @@
+{
+  "en": {
+    "NULLIFIER_BODY_NAME" : "Ohio Reaver",
+    "VOIDMEGACRAB_BODY_NAME" : "Ohio Devastator",
+    "VOIDBARNACLE_BODY_NAME" : "Ohio Barnacle",
+    "VOIDJAILER_BODY_NAME" : "Ohio Jailer",
+    "VOIDINFESTOR_BODY_NAME" : "Ohio Infestor",
+
+    "VOIDRAIDCRAB_BODY_NAME" : "Mike DeWine",
+	  "VOIDRAIDCRAB_BODY_SUBTITLE" : "Governor of Ohio",
+
+    "UNLOCKABLE_LOG_NULLIFIER" : "Monster Log: Ohio Reaver",
+    "UNLOCKABLE_LOG_VOIDBARNACLE" : "Monster Log: Ohio Barnacle",
+    "UNLOCKABLE_LOG_VOIDJAILER" : "Monster Log: Ohio Jailer",
+    "UNLOCKABLE_LOG_VOIDMEGACRAB" : "Monster Log: Ohio Devastator",
+    "UNLOCKABLE_LOG_VOIDRAIDCRAB" : "Monster Log: Governor of Ohio",
+    "UNLOCKABLE_LOG_VOIDINFESTOR" : "Monster Log: Ohio Infestor",
+
+	  "ELITE_MODIFIER_VOID": "Ohioan {0}",
+    "ELITE_MODIFIER_FIRE": "Spicy {0}",
+	  "ELITE_MODIFIER_LIGHTNING": "Zappy {0}",
+    "ELECTRICWORM_BODY_NAME": "Zappy Worm",
+		"UNLOCKABLE_LOG_ELECTRICWORM" : "Monster Log: Zappy Worm",
+    "ELITE_MODIFIER_ICE": "Icy {0}",
+	  "ELITE_MODIFIER_POISON" : "Spiky {0}",
+	  "URCHINTURRET_BODY_NAME" : "Spiky Urchin",
+	  "ELITE_MODIFIER_HAUNTED" : "OP {0}",
+	  "ELITE_MODIFIER_EARTH": "Sk8r boi {0}",
+
+    "MINORCONSTRUCT_BODY_NAME" : "Alpha Male",
+		"UNLOCKABLE_LOG_MINORCONSTRUCT" : "Monster Log: Alpha Male",
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "en": {
+    "DLC1_NAME": "Victims of Ohio",
+    "DLC1_DESCRIPTION": "Adds content from the 'Victims of Ohio' expansion to the game."
+
+    "COST_TREASURECACHEITEM_FORMAT": "{0} Enrusted Key",
+    "COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Crusty Key",
+
+		"FAMILY_VOID" : "<style=cWorldEvent>[WARNING] Ohio is invading!</style>",
+
+    "VOIDCAMP_COMPLETE" : "<style=cWorldEvent>We did it boys, Ohio is no more.</style>",
+
+    "OBJECTIVE_VOID_BATTERY_MISSION": "Activate <style=cIsVoid>OSU Signals</style> ({0}/{1})",
+    "OBJECTIVE_VOID_DEEP_PORTAL": "Enter THE <style=cIsVoid>Ohio State University</style>",
+    "OBJECTIVE_VOID_OUTRO_PORTAL": "Exit THE <style=cIsVoid>Ohio State University</style>",
+    "OBJECTIVE_VOIDCAMP": "Destroy <style=cIsVoid>Ohio</style>.\n{0} Ohioan(s) remaining",
+    "OBJECTIVE_VOID_BATTERY" : "Charge the <style=cIsVoid>OSU Signals</style> ({0}%)",
+    "OBJECTIVE_VOID_BATTERY_OOB": "Enter the <style=cIsVoid>OSU Signal's radius!</style> ({0}%)",
+
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "As Commando, land the killing blow on a Zappy Worm.",
+  }
+}
