@@ -26,5 +26,8 @@
 	  "URCHINTURRET_BODY_NAME" : "Spiky Urchin",
 	  "ELITE_MODIFIER_HAUNTED" : "OP {0}",
 	  "ELITE_MODIFIER_EARTH": "Sk8r boi {0}",
+
+    "MINORCONSTRUCT_BODY_NAME" : "Alpha Male",
+		"UNLOCKABLE_LOG_MINORCONSTRUCT" : "Monster Log: Alpha Male",
   }
 }
