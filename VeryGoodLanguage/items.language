@@ -223,7 +223,7 @@
 	"ITEM_SCRAPRED_PICKUP" : "Does nothing. Prioritized when used with 3D Printers.",
 
     "ITEM_SCRAPYELLOW_NAME" : "Yellow",
-	"ITEM_SCRAPYELLOW_PICKUP" : "<style=cIsDamage>It's yellow.<style>",
+	"ITEM_SCRAPYELLOW_PICKUP" : "<style=cIsDamage>It's yellow.</style>",
 
     "ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Go-Fast Juice",
 	"ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "Slightly increase attack speed and movement speed.",

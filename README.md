@@ -17,5 +17,5 @@ It makes the game more fun, trust me
 
 # Contributing
 
-- Pretty much just modify the `.language` files
+- I'm open to PRs, but they are entirely subject to my personal sense of humor
 - Instructions for finding token names are [here](https://github.com/risk-of-thunder/R2Wiki/wiki/Mod-Creation_Assets_Localization)
