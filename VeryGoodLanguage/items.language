@@ -302,6 +302,12 @@
     "ITEM_MINORCONSTRUCTONKILL_NAME": "Defense Nucleus",
 	"ITEM_MINORCONSTRUCTONKILL_PICKUP": "Summon an <style=cIsDamage>Alpha Male</style> on killing an elite.",
 
+    "ITEM_TOOTH_NAME": "Deez",
+	"ITEM_TOOTH_PICKUP": "<style=cIsDamage>DEEZ NUTS</style> LMAO GOT EM.",
+
+    "ITEM_WARDONLEVEL_NAME": "Updog",
+	"ITEM_WARDONLEVEL_PICKUP": "Seriously, I don't actually know what this is.",
+
     "ITEM_VOIDMEGACRABITEM_NAME": "Buckeye",
 	"ITEM_VOIDMEGACRABITEM_PICKUP": "Spontaneously summon someone from <style=cIsVoid>Ohio</style>. <style=cIsVoid>Corrupts all </style><style=cIsTierBoss>yellow items</style><style=cIsVoid></style>.",
 
