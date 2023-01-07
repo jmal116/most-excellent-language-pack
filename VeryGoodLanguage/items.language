@@ -127,8 +127,8 @@
 	"ITEM_ICERING_PICKUP": "Useful for those warm days out in the wilderness.",
     "ITEM_FIRERING_NAME": "Heated Bracelet",
 	"ITEM_FIRERING_PICKUP": "Useful for those cold nights out in the wilderness.",
-    "ITEM_ELEMENTALRINGVOID_NAME": "Suction Bracelet",
-	"ITEM_ELEMENTALRINGVOID_PICKUP": "Creates the succ. <style=cIsVoid>Corrupts all Cold and Warm Bracelets</style>.",
+    "ITEM_ELEMENTALRINGVOID_NAME": "Succy Bracelet",
+	"ITEM_ELEMENTALRINGVOID_PICKUP": "Creates the succ. <style=cIsVoid>Succs all Cold and Warm Bracelets</style>.",
 
     "ITEM_SLOWONHIT_NAME": "Time Slow",
 	"ITEM_SLOWONHIT_PICKUP": "A Fair and Balanced ability.",

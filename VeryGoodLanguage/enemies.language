@@ -47,11 +47,11 @@
 		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "As MUL-T, defeat two Big Bugs without leaving the teleporter zone.",
     "UNLOCKABLE_LOG_BEETLEQUEEN": "Monster Log: Big Bug",
     
-    "CLAYBOSS_BODY_NAME": "Potted Plant",
+    "CLAYBOSS_BODY_NAME": "Claydol",
 	  "CLAYBOSS_BODY_SUBTITLE": "Bringer of Succ",
     "ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
-		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Potted Plant on Abandoned Aqueduct by throwing it into a pit.",
-    "UNLOCKABLE_LOG_CLAYBOSS": "Monster Log: Potted Plant",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Claydol on Abandoned Aqueduct by throwing it into a pit.",
+    "UNLOCKABLE_LOG_CLAYBOSS": "Monster Log: Claydol",
 
     "GRANDPARENT_BODY_NAME": "Granddaddy",
     "GRANDPARENT_BODY_SUBTITLE": "Won't Shut Up About the Sun",
