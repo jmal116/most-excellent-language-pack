@@ -254,7 +254,7 @@
 
     "ITEM_MISSILE_NAME": "Nuclear Warfare",
 	"ITEM_MISSILE_PICKUP": "Pew pew.",
-    "ITEM_MISSILEVOID_NAME": "Nuclear Warefare, but by Shrimp",
+    "ITEM_MISSILEVOID_NAME": "Nuclear Warfare, but by Shrimp",
 	"ITEM_MISSILEVOID_PICKUP": "Pew pew? <style=cIsVoid>Prevents all nuclear warfare</style>.",
 
     "ITEM_MOREMISSILE_NAME" : "Global Thermonuclear War",

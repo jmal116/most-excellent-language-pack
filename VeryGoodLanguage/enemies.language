@@ -20,6 +20,7 @@
     "ELITE_MODIFIER_FIRE": "Spicy {0}",
 	  "ELITE_MODIFIER_LIGHTNING": "Zappy {0}",
     "ELECTRICWORM_BODY_NAME": "Zappy Worm",
+	  "ELECTRICWORM_BODY_SUBTITLE": "I see you!",
 		"UNLOCKABLE_LOG_ELECTRICWORM" : "Monster Log: Zappy Worm",
     "ELITE_MODIFIER_ICE": "Icy {0}",
 	  "ELITE_MODIFIER_POISON" : "Spiky {0}",
