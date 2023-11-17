@@ -30,6 +30,8 @@
 
     "MINORCONSTRUCT_BODY_NAME" : "Alpha Male",
 		"UNLOCKABLE_LOG_MINORCONSTRUCT" : "Monster Log: Alpha Male",
+    "MEGACONSTRUCT_BODY_NAME" : "Sigma Male",
+		"UNLOCKABLE_LOG_MAJORCONSTRUCT" : "Monster Log: Sigma Male",
 
     "PARENT_BODY_NAME" : "Daddy",
 		"UNLOCKABLE_LOG_PARENT" : "Monster Log: Daddy",

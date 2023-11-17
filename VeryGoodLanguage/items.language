@@ -225,8 +225,8 @@
     "ITEM_SCRAPYELLOW_NAME" : "Yellow",
 	"ITEM_SCRAPYELLOW_PICKUP" : "<style=cIsDamage>It's yellow.</style>",
 
-    "ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Go-Fast Juice",
-	"ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "Slightly increase attack speed and movement speed.",
+    "ITEM_ATTACKSPEEDANDMOVESPEED_NAME" : "Hot Brown Morning Potion",
+	"ITEM_ATTACKSPEEDANDMOVESPEED_PICKUP" : "This timeline only gets darker.",
 
     "ITEM_PRIMARYSKILLSHURIKEN_NAME" : "Ninja Star",
 	"ITEM_PRIMARYSKILLSHURIKEN_PICKUP" : "Requires true skill to use.",
