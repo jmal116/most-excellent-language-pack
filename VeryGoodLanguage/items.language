@@ -341,5 +341,11 @@
 
     "EQUIPMENT_GOLDGAT_NAME": "Late Stage Capitalism",
     "EQUIPMENT_GOLDGAT_PICKUP": "Helps you get more money, but only if you already have money.",
+
+	"ITEM_MONSTERSONSHRINEUSE_NAME": "Cow tools",
+	"ITEM_MONSTERSONSHRINEUSE_PICKUP": "Since 1999, Larson has objected to his work being displayed on the internet, and has been sending takedown notices to owners of fan websites and users posting his cartoons.",
+
+	"ITEM_INCREASEDAMAGEONMULTIKILL_NAME": "Gallon of PCP",
+    "ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": "Wow! A- A gallon! That's illegal, right?",
   }
 }
