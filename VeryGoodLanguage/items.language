@@ -347,5 +347,9 @@
 
 	"ITEM_INCREASEDAMAGEONMULTIKILL_NAME": "Gallon of PCP",
     "ITEM_INCREASEDAMAGEONMULTIKILL_PICKUP": "\"Do you... do a lot of PCP?\" \"Got a gallon\"",
+
+	"ITEM_EXTRASHRINEITEM_NAME": "Chance Doll",
+	"ITEM_EXTRASHRINEITEM_PICKUP": "Gain 40% chance to increase item rarity at Gambling Shrines.",
+	"ITEM_EXTRASHRINEITEM_DESC": "On Gambling Shrine success, <style=cIsUtility>40%</style> <style=cStack>(+10% per stack)</style> chance to get higher rarity items.",
   }
 }

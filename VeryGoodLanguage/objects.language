@@ -28,5 +28,13 @@
 
 	"VOIDCAMPCENTER_NAME" : "Ohio",
 	"VOIDCAMPCENTER_CONTEXT": "Destroy",
+
+	"SHRINE_CHANCE_NAME": "Gambling Shrine",
+	"SHRINE_CHANCE_CONTEXT": "LET'S GO GAMBLING!!!!",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You offer to the shrine and are rewarded!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the shrine and was rewarded!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>AWW DANGIT!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0}: AWW DANGIT!</color>",
+	"SHRINE_CHANCE_DESCRIPTION": "When activated by a survivor the Gambling Shrine has a chance to drop an item of random rarity or a random equipment item."
   }
 }
